@@ -15,7 +15,7 @@ Take User input and process
 > file name must be lnbsum.py in which you are writing code.
 
 
-# Question 2: [lnbcal](https://github.com/Scripturient101/Python_Test/blob/main/lnbsum.py)
+# Question 2: [lnbcal](https://github.com/Scripturient101/Python_Test/blob/main/lnbcal.py)
 
 Take user input and decode logic : 
 
