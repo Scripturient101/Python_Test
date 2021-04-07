@@ -8,7 +8,6 @@ No negative marks.
 # Question 1: [lnbsum](https://github.com/Scripturient101/Python_Test/blob/main/lnbsum.py)
 
 Take User input and process
-———————————————
 
 > Take 5 integrer input from user.
 > Remove all numbers less than 9.
