@@ -5,7 +5,7 @@ Starting Time : 10:30Am
 Total marks - 100 (10 for each question)
 No negative marks. 
 
-# Question 1: 
+# Question 1: [Github]()
 
 Take User input and process
 ———————————————
@@ -20,7 +20,7 @@ Take User input and process
 
 Take user input and decode logic : 
 
-> Take 2 integrer input from user and print their products(their multiplication)
+> Take 2 integer input from user and print their products(their multiplication)
 > IF product is greater than 500 then return their sum 
 > If product is smaller than 500 then return "Hello LNB code is running fine !!"
 > file name must be lnbcal.py in which you are writing code.
@@ -56,7 +56,7 @@ String rearrange
 > filename of code must be stored in strlowerfirst.py 
 
 
-# Question 6 : 
+# Question 6 : [google.py]("https://github.com/Scripturient101/Python_Test/blob/main/google.py)
 
 Take user input and search them on google :-
 
