@@ -56,7 +56,7 @@ String rearrange
 > filename of code must be stored in strlowerfirst.py 
 
 
-# Question 6 : [google.py]("https://github.com/Scripturient101/Python_Test/blob/main/google.py)
+# Question 6 : [Google]("https://github.com/Scripturient101/Python_Test/blob/main/google.py)
 
 Take user input and search them on google :-
 
