@@ -25,7 +25,7 @@ Take user input and decode logic : 
 > file name must be lnbcal.py in which you are writing code.
 
 
-# Question 3: 
+# Question 3: [lnbstrindex](https://github.com/Scripturient101/Python_Test/blob/main/lnbstrindex.py)
 
 Take User input in string form and perform operation
 
