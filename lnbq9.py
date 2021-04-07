@@ -1,4 +1,4 @@
-#import psutil
+import psutil
 import os, platform,uuid
 
 def menu():
