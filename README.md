@@ -5,7 +5,7 @@ Starting Time : 10:30Am
 Total marks - 100 (10 for each question)
 No negative marks. 
 
-# Question 1: [Github]()
+# Question 1: [lnbsum](https://github.com/Scripturient101/Python_Test/blob/main/lnbsum.py)
 
 Take User input and process
 ———————————————
@@ -16,7 +16,7 @@ Take User input and process
 > file name must be lnbsum.py in which you are writing code.
 
 
-# Question 2: 
+# Question 2: [lnbcal](https://github.com/Scripturient101/Python_Test/blob/main/lnbsum.py)
 
 Take user input and decode logic : 
 
@@ -56,7 +56,7 @@ String rearrange
 > filename of code must be stored in strlowerfirst.py 
 
 
-# Question 6 : [Google]("https://github.com/Scripturient101/Python_Test/blob/main/google.py)
+# Question 6 : [Google](https://github.com/Scripturient101/Python_Test/blob/main/google.py):
 
 Take user input and search them on google :-
 
@@ -67,7 +67,7 @@ Take user input and search them on google :-
 > file name must be google.py 
 
 
-# Question 7 : 
+# Question 7 : [Task7](https://github.com/Scripturient101/Python_Test/blob/main/task7.py)
 
 Text to speech task 
 
@@ -79,7 +79,7 @@ Text to speech task 
 > file name will be task7.py
 
 
-# Question 8 : 
+# Question 8 : [q8](https://github.com/Scripturient101/Python_Test/blob/main/q8.py)
 
 Write a code to check list of available wireless network 
 
@@ -89,7 +89,7 @@ Write a code to check list of available wireless network 
 
 
 
-# Question 9: 
+# Question 9: [lnbq9](https://github.com/Scripturient101/Python_Test/blob/main/lnbq9.py)
 
 Function with conditional statement 
 
